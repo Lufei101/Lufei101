@@ -5,6 +5,12 @@
 </h1>  
 
 ### Hi there 👋 I'm Lufei <img align='right' src='https://github-readme-stats.vercel.app/api?username=YySF-01&show_icons=true&theme=tokyonight' width='400px' height='200px'>
+<br>
+<br>
+<br>
+<br>
+<img src='https://img.shields.io/badge/-Lufei/Swagger-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='140px'>
+
 ***
 
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YySF-01&theme=nord_dark' width='555px'>
