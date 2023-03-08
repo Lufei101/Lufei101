@@ -6,7 +6,8 @@
 
 ### Hi there 👋 I'm Lufei <img align='right' src='https://github-readme-stats.vercel.app/api?username=YySF-01&show_icons=true&theme=tokyonight' width='400px' height='200px'>
 <br>
-<span>寻找大师，追随大师，成为大师，超越大师</span>
+<br>
+🌱<span>寻找大师，追随大师，成为大师，超越大师</span>
 <br>
 <br>
 <img src='https://img.shields.io/badge/-Lufei/Swagger-3A77A9?style=flat-square&logo=python&logoColor=white&labelColor=6495ED' width='140px'>
