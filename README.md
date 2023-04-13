@@ -4,7 +4,7 @@
 </a>
 </h1>  
 
-### Hi there 👋 I'm Lufei <img align='right' src='https://github-readme-stats.vercel.app/api?username=YySF-01&show_icons=true&theme=tokyonight' width='400px' height='200px'>
+### Hi there 👋 I'm Lufei <img align='right' src='https://github-readme-stats.vercel.app/api?username=Lufei101&show_icons=true&theme=tokyonight' width='400px' height='200px'>
 <br>
 <br>
 🌱<span>寻找大师，追随大师，成为大师，超越大师</span>
@@ -14,13 +14,13 @@
 
 ***
 
-<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YySF-01&theme=nord_dark' width='555px'>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lufei101&theme=nord_dark' width='555px'>
 
 <!--
-### Hi there 👋 <img align='right' src='https://github-readme-stats.vercel.app/api?username=YySF-01&show_icons=true&theme=tokyonight'>
+### Hi there 👋 <img align='right' src='https://github-readme-stats.vercel.app/api?username=Lufei101&show_icons=true&theme=tokyonight'>
 
 
-**YySF-01/YySF-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lufei101/Lufei101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
